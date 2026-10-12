@@ -1,0 +1,37 @@
+[
+    {
+        "student_id": "101",
+        "name": "Neha",
+        "age": 20,
+        "course": "Python",
+        "marks": 91.0
+    },
+    {
+        "student_id": "102",
+        "name": "Arjun",
+        "age": 21,
+        "course": "Data Science",
+        "marks": 85.0
+    },
+    {
+        "student_id": "103",
+        "name": "Ravi",
+        "age": 22,
+        "course": "Python",
+        "marks": 88.0
+    },
+    {
+        "student_id": "104",
+        "name": "Priya",
+        "age": 20,
+        "course": "Web Development",
+        "marks": 95.5
+    },
+    {
+        "student_id": "105",
+        "name": "Amit",
+        "age": 23,
+        "course": "Machine Learning",
+        "marks": 79.0
+    }
+]
