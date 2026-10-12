@@ -1,0 +1,18 @@
+# Python Development Internship - Week 1 Assignment
+# WeIntern Pvt Ltd
+
+# Core Projects Runtime Dependencies:
+# All three assignments (Student Management System, Expense Tracker,
+# and Python Mini Challenges) as well as the unit test suite are built
+# entirely using the Python 3 standard library:
+#   - json
+#   - csv
+#   - datetime
+#   - os, sys
+#   - unittest
+#
+# No external third-party libraries are required to run the core projects.
+
+# Optional Developer / Documentation Tooling:
+# Used only to generate terminal screenshot assets:
+Pillow>=10.0.0
